@@ -1,0 +1,62 @@
+﻿@using FitnessApp.Areas.Admin.ViewModels.Trainer
+<!-- DataTales Example -->
+@model List<GetTrainerVM>
+@{
+    int count = 0;
+}
+<div class="card shadow mb-4">
+
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Trainers</h6>
+
+
+    </div>
+
+
+
+    <div class="card-body">
+        <div style="margin-bottom:20px"> <a asp-controller="Trainer" asp-action="Create" class="btn btn-primary">Create</a></div>
+
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Image</th>
+                        <th>Name</th>
+                        <th>Position</th>
+                        <th>Actions</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (GetTrainerVM trainer in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>
+                                <img src="~/assets/images/@trainer.Image" alt="trainer" width="60" height="60" style="object-fit: cover; border-radius: 5px;" />
+                            </td>
+                            <td>@trainer.Name</td>
+                            <td>@trainer.PositionName</td>
+                            <td>
+                                <a asp-area="Admin" asp-controller="Trainer" asp-action="Update" asp-route-id="@trainer.Id" class="btn btn-primary">Update</a>
+                                <a asp-area="Admin" asp-controller="Trainer" asp-action="Delete" asp-route-id="@trainer.Id" class="btn btn-danger">Delete</a>
+
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+</div>
+<!-- /.container-fluid -->
+</div>
+<!-- End of Main Content -->

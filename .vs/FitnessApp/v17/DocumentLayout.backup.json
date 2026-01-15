@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\FitnessApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\areas\\admin\\views\\trainer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\admin\\views\\trainer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\areas\\admin\\viewmodels\\trainer\\updatetrainervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\admin\\viewmodels\\trainer\\updatetrainervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\areas\\admin\\viewmodels\\trainer\\createtrainervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\admin\\viewmodels\\trainer\\createtrainervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\areas\\admin\\views\\trainer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\areas\\admin\\views\\trainer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|c:\\users\\dell\\desktop\\fitnessapp\\fitnessapp\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41790EFC-F947-466B-89A6-13DC8077C1BB}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Views\\Trainer\\Update.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Admin\\Views\\Trainer\\Update.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Views\\Trainer\\Update.cshtml",
+              "RelativeToolTip": "FitnessApp\\Areas\\Admin\\Views\\Trainer\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T14:13:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTrainerVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\UpdateTrainerVM.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\UpdateTrainerVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\UpdateTrainerVM.cs",
+              "RelativeToolTip": "FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\UpdateTrainerVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:02:53.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTrainerVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\CreateTrainerVM.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\CreateTrainerVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\CreateTrainerVM.cs",
+              "RelativeToolTip": "FitnessApp\\Areas\\Admin\\ViewModels\\Trainer\\CreateTrainerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:20:03.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Views\\Trainer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Admin\\Views\\Trainer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Views\\Trainer\\Create.cshtml",
+              "RelativeToolTip": "FitnessApp\\Areas\\Admin\\Views\\Trainer\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T13:19:29.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "RelativeToolTip": "FitnessApp\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T13:13:16.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Areas\\Admin\\Controllers\\TrainerController.cs*",
+              "RelativeToolTip": "FitnessApp\\Areas\\Admin\\Controllers\\TrainerController.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowFoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:05:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\FitnessApp\\FitnessApp\\Models\\Trainer.cs",
+              "RelativeToolTip": "FitnessApp\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:49:54.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
